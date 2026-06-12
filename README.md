@@ -152,3 +152,7 @@ After sending a message in a test, verify delivery via the [Mailexam API](https:
 - [Midway.js documentation](https://midwayjs.org/)
 - [Nodemailer documentation](https://nodemailer.com/)
 - [Mailexam API documentation](https://mailexam.io/api)
+
+## License
+
+Apache 2.0
