@@ -149,6 +149,7 @@ After sending a message in a test, verify delivery via the [Mailexam API](https:
 
 - [Mailexam Midway.js guide (wiki)](https://wiki.mailexam.ru/en/examples/midway/)
 - [NestJS reference implementation](https://github.com/mailexam/NestJS) — another Node.js framework with Nodemailer
+- [Next.js reference implementation](https://github.com/mailexam/Next.js) — App Router with Nodemailer
 - [Midway.js documentation](https://midwayjs.org/)
 - [Nodemailer documentation](https://nodemailer.com/)
 - [Mailexam API documentation](https://mailexam.io/api)
